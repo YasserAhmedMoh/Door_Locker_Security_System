@@ -2,7 +2,7 @@
  * micro_config.h
  *
  *  Created on: Oct 21, 2021
- *      Author: TOSHIBA PC
+ *  Author: YASSER AHMED
  */
 
 #ifndef MICRO_CONFIG_H_
