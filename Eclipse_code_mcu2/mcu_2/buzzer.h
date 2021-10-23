@@ -2,7 +2,7 @@
  * buzzer.h
  *
  *  Created on: Oct 21, 2021
- *      Author: TOSHIBA PC
+ *  Author: YASSER AHMED
  */
 
 #ifndef BUZZER_H_
