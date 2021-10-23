@@ -2,7 +2,7 @@
  * motor.c
  *
  *  Created on: Oct 8, 2021
- *      Author: TOSHIBA PC
+ *  Author: YASSER AHMED
  */
 
 #include "motor.h"
