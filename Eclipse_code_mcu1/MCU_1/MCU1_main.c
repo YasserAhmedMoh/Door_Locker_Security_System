@@ -74,6 +74,7 @@ do{
 	/*******************************************************************************
 		 *                      Change password                         *
 		 *******************************************************************************/
+     while(1){
 	LCD_clearScreen();
 	LCD_displayStringRowColumn(0, 0, "+ :Change PW");
 	LCD_displayStringRowColumn(1, 0, "- :open");
@@ -166,6 +167,7 @@ do{
 		   SECONDS_T0_MC1 = 0;
 		   while ( SECONDS_T0_MC1 < 600);       // LOCK MC1 FOR 60 SECONDS
 		}
+}
 	}
 }
 
